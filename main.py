@@ -447,9 +447,9 @@ input_box.pack(
     pady=(0, 20)
 )
 # Smooth scrolling optimization
-# =========================================
+
 # CONTROL FRAME
-# =========================================
+
 
 control_frame = tk.Frame(container)
 
