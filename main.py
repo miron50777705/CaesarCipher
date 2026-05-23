@@ -501,7 +501,7 @@ clear_btn = tk.Button(
 )
 
 clear_btn.grid(row=0, column=4, padx=10)
-
+# UI optimization
 # =========================================
 # OUTPUT FRAME
 # =========================================
